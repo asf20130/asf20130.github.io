@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "on捐款单"
+permalink: /on捐款单/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+傅睿淳
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2024成立坤坤有限公司
+* 关系:朋友
+* 捐款：无捐款{只给我鼓励.呜呜呜他逼我把他写上的}
 
 Work experience
 ======
