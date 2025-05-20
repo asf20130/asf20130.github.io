@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "on捐款单"
-permalink: /on捐款单/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
