@@ -15,12 +15,11 @@ redirect_from:
 * 关系:朋友
 * 捐款：无捐款{只给我鼓励.呜呜呜他逼我把他写上的}
 
-Work experience
+黄勐然
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * 2021年成立沙雕，入xrg创始人之一
+  * 关系:朋友
+  * 捐款:捐款小米VR
 
 * Fall 2015: Research Assistant
   * GitHub University
