@@ -9,27 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-傅睿淳
+傅睿淳 淳少
 ======
 * 2024成立坤坤有限公司
 * 关系:朋友
 * 捐款：无捐款{只给我鼓励.呜呜呜他逼我把他写上的}
 
-黄勐然
+黄勐然 ASA
 ======
   * 2021年成立沙雕，入xrg创始人之一
   * 关系:朋友
   * 捐款:捐款小米VR
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* sd 2022:合作并招募人员
+  * 2023:正式合作
+  * 2024:股票降低，摆烂生活
+  * 2025:维护秩序，公司退保办理
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * 权限:ᐇ权限362
+  * 证书
+  * sd0784546845/576(5－56)
+  * 拥有:cQ和sdg
   
 Skills
 ======
