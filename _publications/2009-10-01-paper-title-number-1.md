@@ -1,7 +1,7 @@
 ---
 title: "服务1"
 collection: 开号
-category: /
+category: 
 permalink: /包开号
 excerpt: '如：ins、 outlook等” .'
 date: 2009-10-01
