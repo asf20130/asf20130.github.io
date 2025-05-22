@@ -4,7 +4,7 @@ collection: 升级
 category: 刷机
 permalink: /升win10 21H 22H等
 excerpt: '注意:刷机前说原因和手机来源.'
-date: 2025-5-21
+date: 2010-10-01
 venue: 'mi1'
 citation: '手机刷机和手表.'
 ---
