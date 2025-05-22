@@ -1,7 +1,7 @@
 ---
-title: "服务2"
-collection: 升级
-category: 刷机
+title: "Paper Title Number 2"
+collection: publications
+category: manuscripts
 permalink: /升win10 21H 22H等
 excerpt: '注意:刷机前说原因和手机来源.'
 date: 2010-10-01
