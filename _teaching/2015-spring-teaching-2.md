@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "steam"
 collection: teaching
-type: "Workshop"
+type: "https://cdn.fastly.steamstatic.com/client/installer/SteamSetup.exe"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "其他:"
 date: 2015-01-01
-location: "City, Country"
+location: "on有限公司"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+必备:
 
 Heading 1
 ======
