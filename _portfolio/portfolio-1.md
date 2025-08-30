@@ -1,6 +1,6 @@
 ---
-title: "on的ai!-oai B"
-excerpt: "http://oai-b--open-webui.fcv3.1693434845273891.cn-shanghai.fc.devsapp.net/<br/><img src='/images/500x300.png'>"
+title: ""
+excerpt: "/<br/><img src='/images/500x300.png'>"
 collection: 产品
 ---
 
